@@ -16,6 +16,10 @@ Welcome to the this Calculator project! This is a basic calculator built using J
 
 6. Enjoy using the calculator!
 
+## Demo
+
+Check out the live demo of the website: [https://nitish2610.github.io/calc_project/]
+
 ## Contributing
 
 We welcome contributions to this project. If you'd like to add new features or improve the calculator, follow these steps:
